@@ -1,3 +1,3 @@
-# Deam_DEX UIkit
+# DEX UIKIT
 
-This is Deam DEX UIKIT
+This is DEX UIKIT.
